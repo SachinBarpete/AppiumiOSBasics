@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-11T19:08:54 IST" name="Web Application Test Automation Suite" finished-at="2020-01-11T19:11:22 IST" duration-ms="147477">
+    <groups>
+    </groups>
+    <test started-at="2020-01-11T19:08:54 IST" name="Appium basic test cases" finished-at="2020-01-11T19:11:22 IST" duration-ms="147477">
+      <class name="com.bridgelabz.test.DatePickerTest">
+        <test-method signature="datePickerTest()[pri:0, instance:com.bridgelabz.test.DatePickerTest@14d3bc22]" started-at="2020-01-11T19:10:03 IST" name="datePickerTest" finished-at="2020-01-11T19:10:28 IST" duration-ms="24801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePickerTest -->
+      </class> <!-- com.bridgelabz.test.DatePickerTest -->
+      <class name="com.bridgelabz.test.ActionSheetTest">
+        <test-method signature="actionSheetTest()[pri:0, instance:com.bridgelabz.test.ActionSheetTest@3901d134]" started-at="2020-01-11T19:09:38 IST" name="actionSheetTest" finished-at="2020-01-11T19:10:03 IST" duration-ms="24771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actionSheetTest -->
+      </class> <!-- com.bridgelabz.test.ActionSheetTest -->
+      <class name="com.bridgelabz.test.PickerViewTest">
+        <test-method signature="pickerViewTest()[pri:0, instance:com.bridgelabz.test.PickerViewTest@4c1d9d4b]" started-at="2020-01-11T19:10:51 IST" name="pickerViewTest" finished-at="2020-01-11T19:11:22 IST" duration-ms="30250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pickerViewTest -->
+      </class> <!-- com.bridgelabz.test.PickerViewTest -->
+      <class name="com.bridgelabz.test.HandleAlertsTest">
+        <test-method signature="handleAlertTest()[pri:0, instance:com.bridgelabz.test.HandleAlertsTest@12d4bf7e]" started-at="2020-01-11T19:10:28 IST" name="handleAlertTest" finished-at="2020-01-11T19:10:51 IST" duration-ms="23811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleAlertTest -->
+      </class> <!-- com.bridgelabz.test.HandleAlertsTest -->
+      <class name="com.bridgelabz.test.CountAllElementsTest">
+        <test-method signature="countAllElementsTest()[pri:0, instance:com.bridgelabz.test.CountAllElementsTest@11a9e7c8]" started-at="2020-01-11T19:08:54 IST" name="countAllElementsTest" finished-at="2020-01-11T19:09:38 IST" duration-ms="43774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countAllElementsTest -->
+      </class> <!-- com.bridgelabz.test.CountAllElementsTest -->
+    </test> <!-- Appium basic test cases -->
+  </suite> <!-- Web Application Test Automation Suite -->
+</testng-results>
