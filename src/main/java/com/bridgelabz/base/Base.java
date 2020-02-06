@@ -25,7 +25,7 @@ public class Base {
 		capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "iPhone 11 Pro Max");
 		capabilities.setCapability(MobileCapabilityType.APP,
 				"/Users/prem/Library/Developer/Xcode/DerivedData/UICatalog-acsqebcsthqaihdcwsfpcbqgblrm/Build/Products/Debug-iphonesimulator/UICatalog.app");
-//		capabilities.setCapability("bundleId", "com.example.apple-samplecode.UICatalog");
+		// capabilities.setCapability("bundleId", "com.example.apple-samplecode.UICatalog");
 		try {
 			URL url = new URL("http://127.0.0.1:4723/wd/hub");
 			driver = new IOSDriver<WebElement>(url, capabilities);
